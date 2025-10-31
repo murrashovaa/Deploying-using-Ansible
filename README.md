@@ -34,4 +34,4 @@ The key's randomart image is:
 |      .+o+..o.o  |
 +----[SHA256]-----+
 ```
-
+![Добавление ключа в репозиторий](img/img1.png)
